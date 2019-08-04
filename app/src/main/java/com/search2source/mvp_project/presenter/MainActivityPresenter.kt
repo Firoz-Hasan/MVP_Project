@@ -18,7 +18,6 @@ class MainActivityPresenter(private val view: View) {
     }
 
     interface View {
-
         fun updateUserInfoTextView(info: String)
     }
 }
