@@ -8,7 +8,7 @@ class MainActivityPresenter(private val view: View) {
     private val user: User
 
     init {
-        this.user = User("")
+        this.user = User()
     }
 
     fun updateFullName(fullName: String) {
