@@ -7,6 +7,7 @@ import com.search2source.mvp_project.presenter.AnotherPresenter
 import com.search2source.mvp_project.presenter.MainActivityPresenter
 import kotlinx.android.synthetic.main.activity_main.*
 
+
 /* --------------------------------HOW MVP WORKS HERE-----------------------------------------
  *
  * MODEL :
